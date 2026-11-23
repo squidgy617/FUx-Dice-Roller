@@ -92,14 +92,14 @@ jobs:
           body: |
             **Installation:** To manually install this release, please use the following manifest URL: ${{ env.RELEASE_INSTALL_URL }}
 
-      - name: Publish release
-        uses: squidgy617/foundry-package-release@v20260712144538
-        if: ${{ env.PUBLISH_RELEASE == 'true' }}
-        with:
-          token: ${{ secrets.FVTTP_TOKEN }}
-          version: ${{ steps.manifest.outputs.version }}
-          manifest: ${{ steps.manifest.outputs.manifest }}
-          notes: https://github.com/squidgy617/${{ env.MODULE_NAME }}/blob/${{ steps.manifest.outputs.version }}/CHANGELOG.md
-          compat_min: ${{ steps.manifest.outputs.compatibility_minimum }}
-          compat_verified: ${{ steps.manifest.outputs.compatibility_verified }}
-          dry_run: "false"
+      # - name: Publish release
+      #   uses: squidgy617/foundry-package-release@v20260712144538
+      #   if: ${{ env.PUBLISH_RELEASE == 'true' }}
+      #   with:
+      #     token: ${{ secrets.FVTTP_TOKEN }}
+      #     version: ${{ steps.manifest.outputs.version }}
+      #     manifest: ${{ steps.manifest.outputs.manifest }}
+      #     notes: https://github.com/squidgy617/${{ env.MODULE_NAME }}/blob/${{ steps.manifest.outputs.version }}/CHANGELOG.md
+      #     compat_min: ${{ steps.manifest.outputs.compatibility_minimum }}
+      #     compat_verified: ${{ steps.manifest.outputs.compatibility_verified }}
+      #     dry_run: "false"
