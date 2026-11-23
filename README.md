@@ -1,6 +1,6 @@
-![Latest Release](https://img.shields.io/github/v/release/neovatar/FUx-Dice-Roller?style=for-the-badge&label=Latest%20release&color=%23ff6400)
-![Downloads (release-13.1.0)](https://img.shields.io/github/downloads/neovatar/FUx-Dice-Roller/release-13.1.0/fux-dice-roller.zip?style=for-the-badge&label=Downloads%20%28release-13.1.0%29)
-![Downloads (all releases)](https://img.shields.io/github/downloads/neovatar/FUx-Dice-Roller/fux-dice-roller.zip?style=for-the-badge&label=Downloads%20%28all%20releases%29)
+![Latest Release](https://img.shields.io/github/v/release/squidgy617/FUx-Dice-Roller?style=for-the-badge&label=Latest%20release&color=%23ff6400)
+![Downloads (release-13.2.0)](https://img.shields.io/github/downloads/squidgy617/FUx-Dice-Roller/release-13.2.0/fux-dice-roller.zip?style=for-the-badge&label=Downloads%20%28release-13.2.0%29)
+![Downloads (all releases)](https://img.shields.io/github/downloads/squidgy617/FUx-Dice-Roller/fux-dice-roller.zip?style=for-the-badge&label=Downloads%20%28all%20releases%29)
 
 # FUx Dice Roller
 
@@ -10,14 +10,14 @@ Built-in support for
 
 - Dice So Nice
 
-The dice roller is not dependent on any specific Foundry game system. This module was originally developed by [Anders Forslund](https://github.com/Anderware) and forked from [Anderware/FUx-Dice-Roller](https://github.com/Anderware/FUx-Dice-Roller).
+The dice roller is not dependent on any specific Foundry game system. This module was originally developed by [Anders Forslund](https://github.com/Anderware) and forked from [Anderware/FUx-Dice-Roller](https://github.com/Anderware/FUx-Dice-Roller), then forked from [neovatar/FUx-Dice-Roller](https://github.com/neovatar/FUx-Dice-Roller).
 
 ![fux_fu_v2](docs/FUx-dice-roller.gif)
 ## Installation
 
 ### Manifest URL
 
-https://github.com/neovatar/FUx-Dice-Roller/releases/latest/download/module.json
+https://github.com/squidgy617/FUx-Dice-Roller/releases/latest/download/module.json
 
 See [Foundry Wiki - How to install a module](https://foundryvtt.wiki/en/basics/Modules) on help on how to use the manifest URL to install a module.
 
