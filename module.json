@@ -10,6 +10,10 @@
     {
       "name": "neovatar",
       "url": "https://github.com/neovatar/FUx-Dice-Roller"
+    },
+    {
+      "name": "squidgy617",
+      "url": "https://github.com/squidgy617/FUx-Dice-Roller"
     }
   ],
   "languages": [
@@ -19,7 +23,7 @@
       "path": "languages/en.json"
     }
   ],
-  "version": "13.1.0",
+  "version": "13.2.0",
   "compatibility": {
     "minimum": "13",
     "verified": "14"
@@ -36,14 +40,14 @@
     "scripts/fux-dice-roller-combat-helper-form.js",
     "scripts/fux-dice-roller-constants.js"
   ],
-  "manifest": "https://github.com/neovatar/FUx-Dice-Roller/releases/latest/download/module.json",
-  "download": "https://github.com/neovatar/FUx-Dice-Roller/releases/download/release-13.1.0/fux-dice-roller.zip",
-  "readme": "https://github.com/neovatar/FUx-Dice-Roller/blob/main/readme.md",
-  "changelog": "https://github.com/neovatar/FUx-Dice-Roller/blob/main/changelog.md",
+  "manifest": "https://github.com/squidgy617/FUx-Dice-Roller/releases/latest/download/module.json",
+  "download": "https://github.com/squidgy617/FUx-Dice-Roller/releases/download/release-13.2.0/fux-dice-roller.zip",
+  "readme": "https://github.com/squidgy617/FUx-Dice-Roller/blob/main/readme.md",
+  "changelog": "https://github.com/squidgy617/FUx-Dice-Roller/blob/main/changelog.md",
   "media": [
     {
         "type": "icon",
-        "url": "https://raw.githubusercontent.com/neovatar/FUx-Dice-Roller/main/images/fux-dice-roller.svg"
+        "url": "https://raw.githubusercontent.com/squidgy617/FUx-Dice-Roller/main/images/fux-dice-roller.svg"
     }
   ]
 }

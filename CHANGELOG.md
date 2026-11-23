@@ -1,3 +1,11 @@
+## Version 13.2.0
+
+### Fixed
+- Use message mode instead of deprecated roll mode for roll settings so 3D dice render properly
+
+### Added
+- Added new settings to select 3D dice from user's library
+
 ## Version 13.1.0
 
 ### Fixed
